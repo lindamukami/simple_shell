@@ -10,3 +10,6 @@ To compile: gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 # Built with
  C Programmming Language
 
+# AUTHORS
+ Linda Mukami
+ Maranga Moranga
