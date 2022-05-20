@@ -8,3 +8,6 @@ git clone https://github.com/
 
 # Built with
  C programming language
+# AUTHORS
+  Contains author description
+
