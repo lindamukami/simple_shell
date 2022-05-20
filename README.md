@@ -26,9 +26,9 @@ To compile: gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 ./hsh
 
 #Example
-$ hello world
-./hsh: 1: hello: not found
-$ exit
+- $ hello world
+- ./hsh: 1: hello: not found
+- $ exit
 
 # Built with
  C Programmming Language
