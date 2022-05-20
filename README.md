@@ -1,13 +1,10 @@
-# Simple Shell
-A simple command line shell, that displays a prompt and wait for the user to type a command. The command
-lines are simple no semicolons, no redirections or any advanced features.
-The command lines are made only of one word.
-# Installing
-To clone the repo:
-git clone https://github.com/
+# SIMPLE SHELL
+hsh a simple command line shell, that displays a prompt and wait for the users to type a command. This task sum's all we have learnt about the language C so far.
+# GETTING STARTED
+To use hsh, you can give it commands. The syntax is command name {arguments}
+# INSTALLING
+To compile: gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 
-# Built with
- C programming language
-# AUTHORS
-  Contains author description
+# BUILT WITH
+ C Programmming Language
 
