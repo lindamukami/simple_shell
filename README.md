@@ -18,5 +18,5 @@ To compile: gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
  C Programmming Language
 
 # Authors
-1. Linda Mukami
-2. Maranga Moranga
+1. Linda Mukami.
+2. Maranga Moranga.
