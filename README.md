@@ -11,8 +11,19 @@ access, chdir, close, closedir, execve,exit _exit, signal, malloc, free, getcwd,
 # Getting started
 To use hsh, you can give it commands. The syntax is command name {arguments}
 
-# Install
+# Shell Usage
+- Install
+
+ git clone https://github.com/lindamukami/simple_shell.git
+ cd simple_shell
+
+- Compile
+
 To compile: gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
+
+- usage: non-interactive mode
+
+./hsh
 
 # Built with
  C Programmming Language
