@@ -1,14 +1,12 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
-#include <sys/wait.h>
-#include <sys/types.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-#include <unistd.h>
-#include <dirent.h>
-#include <limits.h>
-#include <string.h>
+#ifndef MAIN_H
+#define MAIN_H
+#include "sys/wait.h"
+#include "stdio.h"
+#include "stdlib.h"
+#include "unistd.h"
+#include "string.h"
+#include <sys/stat.h>
+
+int _strlen(char *str);
 
 #endif
